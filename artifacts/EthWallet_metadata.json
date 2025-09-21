@@ -38,6 +38,13 @@
 			},
 			{
 				"inputs": [],
+				"name": "deposit",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "owner",
 				"outputs": [
 					{
@@ -85,7 +92,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"EthWallet.sol": "EthWallet"
+			"myEth.sol": "EthWallet"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -99,12 +106,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"EthWallet.sol": {
-			"keccak256": "0xcb30363456097c0655eefbddc091756a42f7a0107c99abaa844bd1dde7817677",
+		"myEth.sol": {
+			"keccak256": "0xdefac3dcc70c4d681be434380b84c570aea9502039eab270883ce127d07f2fe6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7bdc7db617a026d91562adbcaf87133c092cc0a466bfb04d1137476a9845e8b7",
-				"dweb:/ipfs/QmYxBjmWRpbDyBBd81xB6KZHZYwH8fgAnR1oL3eHVdYKJt"
+				"bzz-raw://77180d265535a6c982906fbd6427664df8b67fb1226fe660f9fc946961e40048",
+				"dweb:/ipfs/QmPZNWEhuxoun3RDgRn9fThFJiGoBYeJijDBheWVDSd3Jm"
 			]
 		}
 	},
