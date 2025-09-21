@@ -160,7 +160,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"MyCoin.sol": "Cryparion"
+			"myCoin.sol": "Cryparion"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -174,7 +174,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"MyCoin.sol": {
+		"myCoin.sol": {
 			"keccak256": "0xfec83184f3a004f0a0de513688f11905de91d51fbc6be6334cfeb929d62192ab",
 			"license": "MIT",
 			"urls": [
